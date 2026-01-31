@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capazai.com/sitemap.xml
